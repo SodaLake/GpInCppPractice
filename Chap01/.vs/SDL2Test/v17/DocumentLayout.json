@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\SDL2Test\\",
+  "WorkspaceRootPath": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60E4E99C-FF5B-4B22-9EEA-79BC34AF6057}|SDL2Test\\SDL2Test.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\SDL2Test\\SDL2Test\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{60E4E99C-FF5B-4B22-9EEA-79BC34AF6057}|SDL2Test\\SDL2Test.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap01\\SDL2Test\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{60E4E99C-FF5B-4B22-9EEA-79BC34AF6057}|SDL2Test\\SDL2Test.vcxproj|solutionrelative:SDL2Test\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60E4E99C-FF5B-4B22-9EEA-79BC34AF6057}|SDL2Test\\SDL2Test.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\SDL2Test\\SDL2Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{60E4E99C-FF5B-4B22-9EEA-79BC34AF6057}|SDL2Test\\SDL2Test.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap01\\SDL2Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{60E4E99C-FF5B-4B22-9EEA-79BC34AF6057}|SDL2Test\\SDL2Test.vcxproj|solutionrelative:SDL2Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60E4E99C-FF5B-4B22-9EEA-79BC34AF6057}|SDL2Test\\SDL2Test.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\SDL2Test\\SDL2Test\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{60E4E99C-FF5B-4B22-9EEA-79BC34AF6057}|SDL2Test\\SDL2Test.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap01\\SDL2Test\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{60E4E99C-FF5B-4B22-9EEA-79BC34AF6057}|SDL2Test\\SDL2Test.vcxproj|solutionrelative:SDL2Test\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,17 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\SDL2Test\\SDL2Test\\Game.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap01\\SDL2Test\\Game.cpp",
               "RelativeDocumentMoniker": "SDL2Test\\Game.cpp",
-              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\SDL2Test\\SDL2Test\\Game.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap01\\SDL2Test\\Game.cpp",
               "RelativeToolTip": "SDL2Test\\Game.cpp",
-              "ViewState": "AgIAAP0AAAAAAAAAAAAAAAUBAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAAQBAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-21T18:47:40.342Z",
               "EditorCaption": ""
@@ -41,31 +45,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\SDL2Test\\SDL2Test\\Game.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap01\\SDL2Test\\Game.h",
               "RelativeDocumentMoniker": "SDL2Test\\Game.h",
-              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\SDL2Test\\SDL2Test\\Game.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap01\\SDL2Test\\Game.h",
               "RelativeToolTip": "SDL2Test\\Game.h",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-21T18:47:38.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T18:47:38.357Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\SDL2Test\\SDL2Test\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap01\\SDL2Test\\main.cpp",
               "RelativeDocumentMoniker": "SDL2Test\\main.cpp",
-              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\SDL2Test\\SDL2Test\\main.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap01\\SDL2Test\\main.cpp",
               "RelativeToolTip": "SDL2Test\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-21T18:41:07.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-07-21T18:41:07.518Z"
             }
           ]
         }

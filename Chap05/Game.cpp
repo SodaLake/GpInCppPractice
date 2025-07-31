@@ -24,6 +24,7 @@ Game::Game()
 ,mSpriteShader(nullptr)
 ,mIsRunning(true)
 ,mUpdatingActors(false)
+,hue(0)
 {
 	
 }
@@ -141,6 +142,13 @@ void Game::UpdateGame()
 	{
 		deltaTime = 0.05f;
 	}
+
+	hue += deltaTime * 100;
+	if (hue >= 360)
+	{
+		hue = 0;
+	}
+
 	mTicksCount = SDL_GetTicks();
 
 	// Update all actors
@@ -180,6 +188,48 @@ void Game::GenerateOutput()
 {
 	// Set the clear color to grey
 	glClearColor(0.86f, 0.86f, 0.86f, 1.0f);
+
+	float h = hue;
+	float s = saturation;
+	float v = value;
+
+	float c = v * s;
+	float x = c * (1 - Math::Abs(Math::Fmod(h / 60,2) - 1));
+	float m = v - c;
+
+	float rPie, gPie, bPie;
+
+	if (0 <= h && h < 60)
+	{
+		rPie = c; gPie = x; bPie = 0;
+	}
+	else if (60 <= h && h < 120)
+	{
+		rPie = x; gPie = c; bPie = 0;
+	}
+	else if (120 <= h && h < 180)
+	{
+		rPie = 0; gPie = c; bPie = x;
+	}
+	else if (180 <= h && h < 240)
+	{
+		rPie = 0; gPie = x; bPie = c;
+	}
+	else if (240 <= h && h < 300)
+	{
+		rPie = x; gPie = 0; bPie = c;
+	}
+	else if (300 <= h && h < 360)
+	{
+		rPie = c; gPie = 0; bPie = x;
+	}
+
+	float r = (rPie + m) ;
+	float g = (gPie + m) ;
+	float b = (bPie + m) ;
+
+
+	glClearColor(r, g, b, 1.0f);
 	// Clear the color buffer
 	glClear(GL_COLOR_BUFFER_BIT);
 	
@@ -217,11 +267,11 @@ bool Game::LoadShaders()
 
 void Game::CreateSpriteVerts()
 {
-	float vertices[] = {
-		-0.5f,  0.5f, 0.f, 0.f, 0.f, // top left
-		 0.5f,  0.5f, 0.f, 1.f, 0.f, // top right
-		 0.5f, -0.5f, 0.f, 1.f, 1.f, // bottom right
-		-0.5f, -0.5f, 0.f, 0.f, 1.f  // bottom left
+	float vertices[] = {                  //RGB Color
+		-0.5f,  0.5f, 0.f, 0.f, 0.f,     1.f, 0.f, 0.f, // top left
+		 0.5f,  0.5f, 0.f, 1.f, 0.f,     0.f, 1.f, 0.f,// top right
+		 0.5f, -0.5f, 0.f, 1.f, 1.f,     0.f, 0.f, 1.f,// bottom right
+		-0.5f, -0.5f, 0.f, 0.f, 1.f,     0.5f, 0.5f, 0.f,// bottom left
 	};
 
 	unsigned int indices[] = {

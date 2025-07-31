@@ -1,24 +1,6 @@
-﻿  Actor.cpp
-  Asteroid.cpp
-  CircleComponent.cpp
-  Component.cpp
-  Game.cpp
-  InputComponent.cpp
-  Laser.cpp
-  Main.cpp
-  Math.cpp
-  MoveComponent.cpp
-  Random.cpp
-  Shader.cpp
-  Ship.cpp
-  SpriteComponent.cpp
-  Texture.cpp
+﻿  Game.cpp
   VertexArray.cpp
   코드를 생성하고 있습니다...
-SOIL.lib(image_DXT.obj) : warning LNK4099: '' PDB를 'SOIL.lib(image_DXT.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
-SOIL.lib(image_helper.obj) : warning LNK4099: '' PDB를 'SOIL.lib(image_helper.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
-SOIL.lib(SOIL.obj) : warning LNK4099: '' PDB를 'SOIL.lib(SOIL.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
-SOIL.lib(stb_image_aug.obj) : warning LNK4099: '' PDB를 'SOIL.lib(stb_image_aug.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
   Game.vcxproj -> C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap05\Debug\Game.exe
   C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap05\\..\external\SDL\lib\win\x86\libfreetype-6.dll
   C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap05\\..\external\SDL\lib\win\x86\libogg-0.dll

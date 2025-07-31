@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Sprite.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Shaders\\Sprite.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Sprite.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Shaders\\Sprite.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Basic.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Shaders\\Basic.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\VertexArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:VertexArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\VertexArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:VertexArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Basic.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Shaders\\Basic.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\MoveComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -18,17 +50,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "VertexArray.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\VertexArray.cpp",
+              "RelativeDocumentMoniker": "VertexArray.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\VertexArray.cpp",
+              "RelativeToolTip": "VertexArray.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T11:27:43.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VertexArray.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\VertexArray.h",
+              "RelativeDocumentMoniker": "VertexArray.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\VertexArray.h",
+              "RelativeToolTip": "VertexArray.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T11:27:32.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Basic.vert",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Basic.vert",
+              "RelativeDocumentMoniker": "Shaders\\Basic.vert",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Basic.vert",
+              "RelativeToolTip": "Shaders\\Basic.vert",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-31T07:59:40.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Game.cpp",
               "RelativeDocumentMoniker": "Game.cpp",
               "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Game.cpp",
               "RelativeToolTip": "Game.cpp",
-              "ViewState": "AgIAANsAAAAAAAAAAAAAAOgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAcBAAAAAAAAAIAwwBkBAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-30T15:23:28.941Z",
               "EditorCaption": ""
@@ -36,6 +111,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Sprite.vert",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Sprite.vert",
+              "RelativeDocumentMoniker": "Shaders\\Sprite.vert",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Sprite.vert",
+              "RelativeToolTip": "Shaders\\Sprite.vert",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-31T07:59:29.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sprite.frag",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Sprite.frag",
+              "RelativeDocumentMoniker": "Shaders\\Sprite.frag",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Sprite.frag",
+              "RelativeToolTip": "Shaders\\Sprite.frag",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-31T07:59:34.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shader.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shader.h",
+              "RelativeDocumentMoniker": "Shader.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shader.h",
+              "RelativeToolTip": "Shader.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T10:52:03.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Basic.frag",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Basic.frag",
+              "RelativeDocumentMoniker": "Shaders\\Basic.frag",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Shaders\\Basic.frag",
+              "RelativeToolTip": "Shaders\\Basic.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-31T07:59:38.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T05:48:07.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MoveComponent.cpp",
               "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap05\\MoveComponent.cpp",
               "RelativeDocumentMoniker": "MoveComponent.cpp",
@@ -43,12 +181,7 @@
               "RelativeToolTip": "MoveComponent.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-30T15:23:25.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-07-30T15:23:25.304Z"
             }
           ]
         }

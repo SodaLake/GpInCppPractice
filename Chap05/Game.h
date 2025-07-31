@@ -68,4 +68,10 @@ private:
 	// Game-specific
 	class Ship* mShip;
 	std::vector<class Asteroid*> mAsteroids;
+
+	//련습문제
+	float hue;
+	const float saturation = 1;
+	const float value = 1;
 };
+

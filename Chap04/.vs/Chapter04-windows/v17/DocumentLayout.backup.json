@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:AIState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Tower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Tower.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:AIComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:AIComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:AIState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\SpriteComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:SpriteComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\NavComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:NavComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\NavComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:NavComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC508D87-495F-4554-932D-DD68388B63CC}|Game.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T16:53:55.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tile.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tile.cpp",
+              "RelativeDocumentMoniker": "Tile.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tile.cpp",
+              "RelativeToolTip": "Tile.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T16:53:48.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Bullet.cpp",
+              "RelativeDocumentMoniker": "Bullet.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Bullet.cpp",
+              "RelativeToolTip": "Bullet.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T16:52:39.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tile.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tile.h",
+              "RelativeDocumentMoniker": "Tile.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tile.h",
+              "RelativeToolTip": "Tile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-29T16:51:38.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tower.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tower.cpp",
+              "RelativeDocumentMoniker": "Tower.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tower.cpp",
+              "RelativeToolTip": "Tower.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T16:30:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tower.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tower.h",
+              "RelativeDocumentMoniker": "Tower.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Tower.h",
+              "RelativeToolTip": "Tower.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-29T16:25:54.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIState.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIState.cpp",
+              "RelativeDocumentMoniker": "AIState.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIState.cpp*",
+              "RelativeToolTip": "AIState.cpp*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAG4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T16:18:20.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AIComponent.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIComponent.h",
+              "RelativeDocumentMoniker": "AIComponent.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIComponent.h",
+              "RelativeToolTip": "AIComponent.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-29T16:21:31.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grid.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Grid.cpp",
+              "RelativeDocumentMoniker": "Grid.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Grid.cpp",
+              "RelativeToolTip": "Grid.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T13:37:48.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AIState.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIState.h",
+              "RelativeDocumentMoniker": "AIState.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIState.h",
+              "RelativeToolTip": "AIState.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-29T16:17:29.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AIComponent.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIComponent.cpp",
+              "RelativeDocumentMoniker": "AIComponent.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\AIComponent.cpp",
+              "RelativeToolTip": "AIComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T16:21:40.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Enemy.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Enemy.cpp",
+              "RelativeToolTip": "Enemy.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T16:24:53.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Actor.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Actor.h",
+              "RelativeDocumentMoniker": "Actor.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Actor.h",
+              "RelativeToolTip": "Actor.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-29T16:25:24.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Actor.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Actor.cpp",
+              "RelativeDocumentMoniker": "Actor.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Actor.cpp",
+              "RelativeToolTip": "Actor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T16:27:11.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Component.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Component.cpp",
+              "RelativeDocumentMoniker": "Component.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Component.cpp",
+              "RelativeToolTip": "Component.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T16:27:07.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Component.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Component.h",
+              "RelativeDocumentMoniker": "Component.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Component.h",
+              "RelativeToolTip": "Component.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-29T16:21:50.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpriteComponent.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\SpriteComponent.h",
+              "RelativeDocumentMoniker": "SpriteComponent.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\SpriteComponent.h",
+              "RelativeToolTip": "SpriteComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-29T16:23:14.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-29T16:07:25.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NavComponent.cpp",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\NavComponent.cpp",
+              "RelativeDocumentMoniker": "NavComponent.cpp",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\NavComponent.cpp",
+              "RelativeToolTip": "NavComponent.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T13:38:37.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavComponent.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\NavComponent.h",
+              "RelativeDocumentMoniker": "NavComponent.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\NavComponent.h",
+              "RelativeToolTip": "NavComponent.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-29T13:38:33.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\ssjjh\\Desktop\\gpcpp\\myPractice\\Chap04\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-28T13:51:16.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

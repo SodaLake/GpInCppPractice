@@ -1,0 +1,16 @@
+﻿  AIState.cpp
+C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\AIState.cpp(66,15): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Game.vcxproj -> C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\Debug\Game.exe
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\SDL\lib\win\x86\libfreetype-6.dll
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\SDL\lib\win\x86\libogg-0.dll
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\SDL\lib\win\x86\libpng16-16.dll
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\SDL\lib\win\x86\libvorbis-0.dll
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\SDL\lib\win\x86\libvorbisfile-3.dll
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\SDL\lib\win\x86\SDL2.dll
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\SDL\lib\win\x86\SDL2_image.dll
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\SDL\lib\win\x86\SDL2_mixer.dll
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\SDL\lib\win\x86\SDL2_ttf.dll
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\SDL\lib\win\x86\zlib1.dll
+  10개 파일이 복사되었습니다.
+  C:\Users\ssjjh\Desktop\gpcpp\myPractice\Chap04\\..\external\GLEW\lib\win\x86\glew32.dll
+  1개 파일이 복사되었습니다.
